@@ -1,4 +1,4 @@
-# Robotic Finger Project
+# BME Robotic Finger Project
 
 ## Overview
 This project focuses on modeling and controlling a robotic finger. The code encompasses both forward and inverse kinematics, ensuring precise control and validation of the robotic finger's movements. Additionally, GUI files are included for enhanced user interaction.
@@ -42,9 +42,9 @@ This project focuses on modeling and controlling a robotic finger. The code enco
 
 ## How to Use
 
-0. ** Prerequisites**:
+0. **Prerequisites**:  
    Developed and tested on Matlab R2023b. The files must be in the same folder, especially the GUI files in order the GUI App to run.
 
-1. **Clone the Repository**:
-   git clone https://github.com/Inglezos/BME_Robotic_Finger_Project.git
+1. **Clone the Repository**:  
+   git clone https://github.com/Inglezos/BME_Robotic_Finger_Project.git  
    cd BME_Robotic_Finger_Project
